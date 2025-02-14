@@ -6,25 +6,25 @@
         "cat": "Business Skills"
     },
     {
-        "src": "./img/user.png",
+        "src": "./img/leadership.jpg",
         "title": "Financial Management Course",
         "desc": "Understand financial principles, budgeting, and investment strategies to manage business finances effectively. Software used: QuickBooks (Subscription-based), Microsoft Excel (Subscription-based), Wave Accounting (Free).",
         "cat": "Business Skills"
     },
     {
-        "src": "./img/user.png",
+        "src": "./img/e919c441-d60a-4b15-a38e-4d2a8996cc43.jpg",
         "title": "Project Management Course",
         "desc": "Master project management methodologies like Agile and Scrum to enhance team collaboration and efficiency. Software used: Trello (Free with premium options), Asana (Free with premium options), Jira (Trial version available).",
         "cat": "Business Skills"
     },
     {
-        "src": "./img/user.png",
+        "src": "./img/How to Start a Shopify Store in 2024.jpg",
         "title": "E-commerce and Online Business Course",
         "desc": "Learn how to set up and run an online business using platforms like Shopify, WooCommerce, and Amazon FBA. Software used: Shopify (Trial available), WooCommerce (Free with paid plugins), Amazon Seller Central (Subscription-based).",
         "cat": "Business Skills"
     },
     {
-        "src": "./img/user.png",
+        "src": "./img/6b7934d4-1fa3-47cf-8eda-385d246f9dc9.jpg",
         "title": "Negotiation and Communication Course",
         "desc": "Develop negotiation skills and effective communication techniques for business success. Software used: Zoom (Free with premium options), Google Meet (Free), Slack (Free with premium options).",
         "cat": "Business Skills"
