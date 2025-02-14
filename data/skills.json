@@ -1,30 +1,30 @@
 [
     {
-        "src": "img/basic-plan.png",
+        "src": "./img/basic-plan.png",
         "title": "Marketing and Sales Course",
         "desc": "Learn how to create marketing strategies and improve sales using digital tools like Google Ads and social media analytics. Software used: Google Ads (Free with paid campaigns), Meta Business Suite (Free), HubSpot CRM (Free and premium options).",
         "cat": "Business Skills"
     },
     {
-        "src": "img/Financial.jpg",
+        "src": "./img/Financial.jpg",
         "title": "Financial Management Course",
         "desc": "Understand financial principles, budgeting, and investment strategies to manage business finances effectively. Software used: QuickBooks (Subscription-based), Microsoft Excel (Subscription-based), Wave Accounting (Free).",
         "cat": "Business Skills"
     },
     {
-        "src": "img/Project.jpg",
+        "src": "./img/Project.jpg",
         "title": "Project Management Course",
         "desc": "Master project management methodologies like Agile and Scrum to enhance team collaboration and efficiency. Software used: Trello (Free with premium options), Asana (Free with premium options), Jira (Trial version available).",
         "cat": "Business Skills"
     },
     {
-        "src": "img/E-commerce.jpg",
+        "src": "./img/E-commerce.jpg",
         "title": "E-commerce and Online Business Course",
         "desc": "Learn how to set up and run an online business using platforms like Shopify, WooCommerce, and Amazon FBA. Software used: Shopify (Trial available), WooCommerce (Free with paid plugins), Amazon Seller Central (Subscription-based).",
         "cat": "Business Skills"
     },
     {
-        "src": "img/Negotiation.jpg",
+        "src": "./img/Negotiation.jpg",
         "title": "Negotiation and Communication Course",
         "desc": "Develop negotiation skills and effective communication techniques for business success. Software used: Zoom (Free with premium options), Google Meet (Free), Slack (Free with premium options).",
         "cat": "Business Skills"
