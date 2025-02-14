@@ -1,14 +1,32 @@
 [
     {
        "src": "./img/user.png",
-       "title": "Ejemplo Curso",
-       "desc": "Descripcion Curso",
-       "cat": "Categoria"
+       "title": "Spreadsheets Course",
+       "desc": "Learn how to manage spreadsheets using tools like Excel and Google Sheets.",
+       "cat": "Spreadsheets"
     },
     {
         "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
-     }
+        "title": "Charts and Graphs Course",
+        "desc": "Create and analyze charts and graphs using tools like Tableau and Google Charts.",
+        "cat": "Charts and Graphs"
+    },
+    {
+        "src": "./img/user.png",
+        "title": "Website Hosting Course",
+        "desc": "Set up and manage web hosting on platforms like GitHub Pages and Netlify.",
+        "cat": "Website Hosting"
+    },
+    {
+        "src": "./img/user.png",
+        "title": "Cloud Computing Course",
+        "desc": "Learn cloud computing fundamentals with services like AWS, Google Cloud, and Azure.",
+        "cat": "Cloud Computing"
+    },
+    {
+        "src": "./img/user.png",
+        "title": "Smartphone Apps Development Course",
+        "desc": "Develop mobile applications using Flutter and React Native.",
+        "cat": "Smartphone Apps Development"
+    }
 ]
