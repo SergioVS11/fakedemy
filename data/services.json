@@ -1,32 +1,44 @@
 [
     {
-       "src": "./img/istockphoto-1025661664-612x612.jpg",
+       "src": "./img/user.png",
        "title": "Spreadsheets Course",
-       "desc": "Learn how to manage spreadsheets using tools like Excel and Google Sheets.",
+       "desc": "Learn how to manage spreadsheets using tools like Excel and Google Sheets. Software used: Microsoft Excel (Subscription-based), Google Sheets (Free), LibreOffice Calc (Free, Open-source).",
        "cat": "Spreadsheets"
     },
     {
         "src": "./img/user.png",
         "title": "Charts and Graphs Course",
-        "desc": "Create and analyze charts and graphs using tools like Tableau and Google Charts.",
+        "desc": "Create and analyze charts and graphs using tools like Tableau and Google Charts. Software used: Tableau (Trial version available), Google Charts (Free), Microsoft Power BI (Free and Pro versions).",
         "cat": "Charts and Graphs"
     },
     {
         "src": "./img/user.png",
         "title": "Website Hosting Course",
-        "desc": "Set up and manage web hosting on platforms like GitHub Pages and Netlify.",
+        "desc": "Set up and manage web hosting on platforms like GitHub Pages and Netlify. Software used: GitHub Pages (Free), Netlify (Free with premium options), Vercel (Free with premium options).",
         "cat": "Website Hosting"
     },
     {
         "src": "./img/user.png",
         "title": "Cloud Computing Course",
-        "desc": "Learn cloud computing fundamentals with services like AWS, Google Cloud, and Azure.",
+        "desc": "Learn cloud computing fundamentals with services like AWS, Google Cloud, and Azure. Software used: AWS Free Tier, Google Cloud (Free trial with $300 credit), Microsoft Azure (Free trial with $200 credit).",
         "cat": "Cloud Computing"
     },
     {
         "src": "./img/user.png",
         "title": "Smartphone Apps Development Course",
-        "desc": "Develop mobile applications using Flutter and React Native.",
+        "desc": "Develop mobile applications using Flutter and React Native. Software used: Flutter (Free, Open-source), React Native (Free, Open-source), Android Studio (Free), Xcode (Free, macOS only).",
         "cat": "Smartphone Apps Development"
+    },
+    {
+        "src": "./img/user.png",
+        "title": "Leadership and Management Course",
+        "desc": "Enhance your leadership and management skills for business success. Software used: Trello (Free with premium options), Asana (Free with premium options), Microsoft Teams (Free with premium options).",
+        "cat": "Business Skills"
+    },
+    {
+        "src": "./img/user.png",
+        "title": "Entrepreneurship Course",
+        "desc": "Learn the fundamentals of starting and managing your own business. Software used: Google Workspace (Free and paid plans), QuickBooks (Subscription-based), Canva (Free with premium options).",
+        "cat": "Business Skills"
     }
 ]
